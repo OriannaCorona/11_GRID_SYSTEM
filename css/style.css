@@ -1,0 +1,97 @@
+/*header*/
+header{
+background-color: black;
+}
+#logo{
+height: 80px;
+width: 80px;
+}
+ul{
+margin: 2% 0;
+text-align: right;
+padding: 2%;
+}
+li{text-decoration: none;
+display: inline-block;
+padding: 5px;
+padding-top: 20px;
+font-family: Arial;
+color: white;
+font-size: 10px;	
+}
+/*seecion1*/
+.ultimos{
+background-color: lightgray;
+}
+.titulo{
+font-family: Arial;
+font-size: 12px;
+color:blue;
+font-weight: bold;
+text-align: center;
+display: block;
+}
+h3{
+font-family: Arial;
+font-size: 16px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+#a1{
+font-family: Arial;
+font-size: 10px;
+color: blue;
+}
+.cuatro{
+height: 200px;
+width: 200px;
+border: white solid 3px;
+}
+
+/*seccion 2*/
+.todos{
+height: 100px;
+width: 100px;
+border: lightgray double 4px;
+}
+.capitulos{font-family: Arial;
+font-size: 10px;
+color: blue;
+text-align: center;
+display: block;
+}
+/*aside*/
+#subti{color:gray;
+padding-left: 13px;
+}
+.sub{
+color: blue;
+font-size: 12px;
+}
+.sub4{
+height: 15px;
+width: 15px; 
+}
+/*footer*/
+footer{
+background-color: gray;
+}
+#menu2 {
+text-align: center;
+}
+.izq{
+text-align: left;
+font-family: Arial;
+font-size: 12px;
+}
+#info {
+font-size: 12px;
+font-family: Arial;
+color: white;
+}
+#derechos {
+font-size: 10px;
+font-family: Arial;
+color: lightgray;
+text-align: center;
+}
